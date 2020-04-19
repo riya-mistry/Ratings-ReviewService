@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\RatingServiceLibrary\RatingServiceLibrary\bin\Debug\RatingServiceLibrary.dll.config
+C:\Users\admin\source\repos\RatingServiceLibrary\RatingServiceLibrary\bin\Debug\RatingServiceLibrary.dll
+C:\Users\admin\source\repos\RatingServiceLibrary\RatingServiceLibrary\bin\Debug\RatingServiceLibrary.pdb
+C:\Users\admin\source\repos\RatingServiceLibrary\RatingServiceLibrary\obj\Debug\RatingServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RatingServiceLibrary\RatingServiceLibrary\obj\Debug\RatingServiceLibrary.dll
+C:\Users\admin\source\repos\RatingServiceLibrary\RatingServiceLibrary\obj\Debug\RatingServiceLibrary.pdb
+C:\Users\admin\source\repos\RatingServiceLibrary\RatingServiceLibrary\obj\Debug\RatingServiceLibrary.csprojAssemblyReference.cache

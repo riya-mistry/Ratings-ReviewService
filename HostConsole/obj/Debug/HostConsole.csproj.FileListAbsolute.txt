@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\RatingServiceLibrary\HostConsole\bin\Debug\HostConsole.exe.config
+C:\Users\admin\source\repos\RatingServiceLibrary\HostConsole\bin\Debug\HostConsole.exe
+C:\Users\admin\source\repos\RatingServiceLibrary\HostConsole\bin\Debug\HostConsole.pdb
+C:\Users\admin\source\repos\RatingServiceLibrary\HostConsole\bin\Debug\RatingServiceLibrary.dll
+C:\Users\admin\source\repos\RatingServiceLibrary\HostConsole\bin\Debug\RatingServiceLibrary.pdb
+C:\Users\admin\source\repos\RatingServiceLibrary\HostConsole\bin\Debug\RatingServiceLibrary.dll.config
+C:\Users\admin\source\repos\RatingServiceLibrary\HostConsole\obj\Debug\HostConsole.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\RatingServiceLibrary\HostConsole\obj\Debug\HostConsole.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RatingServiceLibrary\HostConsole\obj\Debug\HostConsole.csproj.CopyComplete
+C:\Users\admin\source\repos\RatingServiceLibrary\HostConsole\obj\Debug\HostConsole.exe
+C:\Users\admin\source\repos\RatingServiceLibrary\HostConsole\obj\Debug\HostConsole.pdb
